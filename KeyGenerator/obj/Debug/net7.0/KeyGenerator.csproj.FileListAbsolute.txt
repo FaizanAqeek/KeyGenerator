@@ -1,0 +1,15 @@
+D:\Project\KeyGenerator\KeyGenerator\bin\Debug\net7.0\KeyGenerator.exe
+D:\Project\KeyGenerator\KeyGenerator\bin\Debug\net7.0\KeyGenerator.deps.json
+D:\Project\KeyGenerator\KeyGenerator\bin\Debug\net7.0\KeyGenerator.runtimeconfig.json
+D:\Project\KeyGenerator\KeyGenerator\bin\Debug\net7.0\KeyGenerator.dll
+D:\Project\KeyGenerator\KeyGenerator\bin\Debug\net7.0\KeyGenerator.pdb
+D:\Project\KeyGenerator\KeyGenerator\obj\Debug\net7.0\KeyGenerator.csproj.AssemblyReference.cache
+D:\Project\KeyGenerator\KeyGenerator\obj\Debug\net7.0\KeyGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\KeyGenerator\KeyGenerator\obj\Debug\net7.0\KeyGenerator.AssemblyInfoInputs.cache
+D:\Project\KeyGenerator\KeyGenerator\obj\Debug\net7.0\KeyGenerator.AssemblyInfo.cs
+D:\Project\KeyGenerator\KeyGenerator\obj\Debug\net7.0\KeyGenerator.csproj.CoreCompileInputs.cache
+D:\Project\KeyGenerator\KeyGenerator\obj\Debug\net7.0\KeyGenerator.dll
+D:\Project\KeyGenerator\KeyGenerator\obj\Debug\net7.0\refint\KeyGenerator.dll
+D:\Project\KeyGenerator\KeyGenerator\obj\Debug\net7.0\KeyGenerator.pdb
+D:\Project\KeyGenerator\KeyGenerator\obj\Debug\net7.0\KeyGenerator.genruntimeconfig.cache
+D:\Project\KeyGenerator\KeyGenerator\obj\Debug\net7.0\ref\KeyGenerator.dll
